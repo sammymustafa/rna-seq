@@ -12,4 +12,4 @@ Center for Biotechnology Information (NCBI)
 * Project 7: Aligning single cell sequencing data and analyzing the counts with Seurat via R
 * Project 8: RNA sequencing from 21 septic shock and 11 cardiogenic shock patients samples taken at three timepoints in respect to ICU admission, studied number of genes that significantly changed betwee timepoints and compared the time course of gene expression across the conditions
 
-Please feel free to contact me if you would like more information on where the data was obtained from.
+Please feel free to contact me if you would like more information on where the data were obtained from.
