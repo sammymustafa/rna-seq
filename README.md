@@ -1,6 +1,6 @@
 # RNA-Sequencing Projects
 
-Attached are short PDF summaries of findings from several projects investigating various datasets throughout the RNA-seq process! Here are descriptions of what each project investigates/finds:
+Attached are short PDF summaries of findings from several projects investigating various datasets throughout the RNA-seq process! Most entail leveraging unix with the high-performance computing cluster Quest. Here are descriptions of what each project investigates/finds:
 
 * Project 1: Making FastQc/MultiQC report for six biological yeast replicates of wild type & SNF2 mutants (summarizes 84 files)
 * Project 2: Identifying faster methods of downloading sequencing data from the European Nucleotide Archive (ENA) and the National
